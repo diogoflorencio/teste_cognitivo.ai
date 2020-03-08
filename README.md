@@ -1,3 +1,5 @@
+# Teste Cognitivo.ai Classificação Room Type
+
 **a. Como foi a definição da sua estratégia de modelagem?**
 
 Inicialmente foi realizada a sumarização, descrição e análise dos dados. Então, foram geradas novas features por meio da categorização das variáveis `availability_365`, `number_of_reviews` e `price` associada a variável `neighbourhood`. Todo o processo de engenharia de features foi detalhado no notebook.
